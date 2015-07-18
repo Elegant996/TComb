@@ -4,7 +4,7 @@ This is an update to tritical's TComb v2.0 Beta 2 moving it from beta to release
 
 ### Requirements
 
-This filter requires AviSynth 2.6.0 or AviSynth+ and should not be used with AviSynth 2.5.x.
+This filter requires AviSynth 2.6.0 or AviSynth+ as well as the Visual C++ Redistributable Package for Visual Studio 2013.
 
 ### Syntax and Parameters
 
