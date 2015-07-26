@@ -25,4 +25,4 @@ Many changes were made when updating TComb in order to improve speed (see full c
 
 This program was compiled using Visual Studio 2013 and falls under the GNU General Public License.
 
-I would like to thank jpsdr and dubhater for their work on nnedi3 and the VapourSynth version of TComb (respectively). There work led to the port of this project. I'd also like to thank the masm32 community who were very helpful as I explored assembly.
+I would like to thank jpsdr and dubhater for their work on nnedi3 and the VapourSynth version of TComb (respectively). Their work led to the port of this project. I'd also like to thank the masm32 community who were very helpful as I explored assembly.

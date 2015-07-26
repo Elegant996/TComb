@@ -150,8 +150,10 @@ BASIC SETUP/USAGE:
 
 CHANGE LIST:
 
+   07/26/2015  v2.0.0.1
+       + Corrected the masks used in HorizontalBlur6 for x64.
 
-   17/07/2015  v2.0
+   07/17/2015  v2.0
 
        + Removed buffering of frames/info that weren't actually used (was there for
          development/testing purposes). Should save a lot of RAM usage.
