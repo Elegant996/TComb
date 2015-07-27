@@ -1,5 +1,5 @@
 /*
-**                    TComb v2.0 for Avisynth 2.5.x
+**                    TComb v2.0 for Avisynth 2.6.x
 **
 **   TComb is a temporal comb filter (it reduces cross-luminance (rainbowing)
 **   and cross-chrominance (dot crawl) artifacts in static areas of the picture).
@@ -7,7 +7,9 @@
 **   where the rainbowing/dotcrawl was introduced prior to the telecine process!
 **   It must be used before ivtc or deinterlace.
 **
-**   Copyright (C) 2014-2015 Shane Panke
+**   Copyright (C) 2015 Shane Panke
+**
+**   Copyright (C) 2005-2006 Kevin Stone
 **
 **   This program is free software; you can redistribute it and/or modify
 **   it under the terms of the GNU General Public License as published by
