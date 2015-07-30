@@ -2,7 +2,7 @@
                                     TComb for AviSynth v2.6.x                                         |
                                        v2.0 (17 July 2015)                                            |
                                            by tritical                                                |
-									   modified by Elegant											  |
+                                       modified by Elegant                                            |
                                                                                                       |
                                             HELP FILE                                                 |
 -------------------------------------------------------------------------------------------------------
@@ -153,6 +153,7 @@ CHANGE LIST:
    07/26/2015  v2.0.0.1
        + Corrected the masks used in HorizontalBlur6 for x64.
 
+	   
    07/17/2015  v2.0
 
        + Removed buffering of frames/info that weren't actually used (was there for
@@ -166,7 +167,11 @@ CHANGE LIST:
 	     be carried over to x64.
 	   - Removed "opt" parameter. TComb will now use SSE2 if available and will fallback
 	     on C++ if it is not supported.
-	   
+
+
+End of tritical version history
+------------------------------------------------------------------------
+		 
 
    05/16/2006  v2.0 Beta 2
 
